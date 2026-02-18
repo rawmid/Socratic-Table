@@ -14,16 +14,6 @@ This is a simple C program that acts as an interactive guessing game. The progra
 2. The program asks a series of yes/no questions about the element’s properties (e.g., period, atomic mass, group classification).
 3. Based on the user’s answers, the program deduces and displays the correct element.
 
-## How to Run
-### Prerequisites
-- A C compiler (e.g., GCC, Clang, or MSVC)
-
-### Compilation & Execution
-```bash
-gcc element_guessing_game.c -o element_game
-./element_game
-```
-
 ## Game Rules
 - Answer each question with `1` (Yes) or `0` (No).
 - Keep a periodic table handy for reference.
@@ -57,6 +47,8 @@ The element is Hydrogen.
 - Extend support for elements beyond Period 2.
 - Implement a graphical user interface (GUI) for better user experience.
 - Optimize question flow for improved efficiency.
+- Implement neural structure for dynamic question and guess handling.
+
 
 ## License
 This project is open-source and available for modification and distribution.
