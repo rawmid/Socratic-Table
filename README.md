@@ -1,4 +1,4 @@
-## **Backdot** – Your Intelligent Periodic Table Assistant
+## Your Intelligent Periodic Table Assistant
 
 ## Introduction
 This is a simple C program that acts as an interactive guessing game. The program asks the user a series of yes/no questions to determine which chemical element they are thinking of. It follows a structured approach based on the periodic table to analyze user responses and guess the correct element.
